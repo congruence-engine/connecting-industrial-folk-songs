@@ -34,6 +34,7 @@ Conceptualization, Methodology, Investigation, Data Curation, Project administra
 **Daniel Belteki**:
 
 Conceptualization, Methodology, Investigation, Data Curation, Visualization, Writing
+
 **Jennifer Reid**:
 
 Investigation, Data Curation, Writing
